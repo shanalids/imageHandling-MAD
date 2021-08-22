@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imageHandling</string>
+    <string name="button1">Take a Photo</string>
+</resources>
